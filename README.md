@@ -15,3 +15,5 @@ The Switch 2 shows that a competent upscaler (a custom DLSS in that case) that d
 <img alt="image" src="https://github.com/user-attachments/assets/a8e30417-b2f6-4f5f-b873-998adfd222f0" />
 
 As of 9/16/2026 I have alpha version that beat FSR3 in quality in many scenarios (above is a zoomed in screenshot from Hogwarts Legacy at 1440p output with a 3x upscale from 480p). It's still a bit dodgy in motion with some ghosting and streaks possible which I'm actively training against. Training corpus at the moment is only about 3 minutes of recordings as recordings take a lot of space and training takes a lot of time on my 3080.
+
+<img alt="ours_vs_fsr3_2hz" src="https://github.com/user-attachments/assets/0d2ad7d3-3f84-4b66-a553-b353092c6046" />
